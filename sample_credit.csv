@@ -1,0 +1,31 @@
+Age,Gender,Income,Credit History Length,Number of Existing Loans,Loan Amount,Loan Tenure,Existing Customer,State,LTV Ratio,Employment Profile,Profile Score,Occupation
+54,Male,47000,150,0,102105,15,No,Kerala,74.96229817,Student,11,Student
+28,Female,22000,327,8,92019,112,Yes,Karnataka,40,Freelancer,100,Writer
+38,Male,49000,172,1,149137,41,No,Tamil Nadu,92.5779382,Self-Employed,46,Contractor
+19,Male,29000,568,6,56596,203,No,Kerala,57.44626834,Self-Employed,98,Contractor
+54,Female,49000,487,2,148113,114,No,Telangana,95,Self-Employed,50,Shopkeeper
+58,Male,100000,149,6,65727,281,No,Delhi,55.71172149,Freelancer,91,Photographer
+18,Male,34000,484,7,119315,158,Yes,Kerala,66.32992131,Salaried,100,Doctor
+23,Female,52000,421,0,79888,57,No,Gujarat,95,Salaried,16,Doctor
+23,Female,40000,584,7,53221,254,Yes,West Bengal,47.43514222,Self-Employed,100,Business Owner
+63,Female,181000,345,4,150000,74,No,Karnataka,78.92094637,Salaried,98,Doctor
+36,Female,96000,227,8,150000,122,Yes,Telangana,40,Salaried,93,Banker
+21,Male,40000,360,2,72019,43,No,Delhi,80.63605311,Salaried,82,Software Engineer
+62,Female,154000,284,4,150000,90,No,West Bengal,74.89190484,Salaried,72,Teacher
+64,Female,186000,161,8,150000,112,Yes,Karnataka,83.99910545,Salaried,100,Teacher
+45,Male,120000,347,5,150000,326,No,Uttar Pradesh,95,Salaried,91,Software Engineer
+20,Male,35000,271,0,59424,87,No,Kerala,53.03535251,Salaried,76,Teacher
+58,Female,125000,185,4,120600,54,No,Maharashtra,83.99352753,Salaried,68,Teacher
+41,Male,91000,357,10,150000,275,Yes,Tamil Nadu,58.48291894,Salaried,96,Banker
+25,Female,67000,503,2,150000,56,No,Delhi,71.2376392,Student,55,Student
+65,Male,94000,82,7,150000,309,Yes,West Bengal,79.64767048,Freelancer,100,Writer
+22,Female,29000,185,0,116226,114,No,Gujarat,82.98031892,Freelancer,34,Photographer
+70,Male,158000,277,5,94575,329,No,Delhi,68.76315988,Salaried,95,Software Engineer
+40,Female,48000,365,4,129247,82,No,Uttar Pradesh,95,Freelancer,60,Independent Consultant
+50,Male,72000,465,0,150000,59,No,Rajasthan,58.83993429,Salaried,67,Banker
+53,Female,77000,268,3,115186,76,No,Kerala,60.56318321,Salaried,71,Doctor
+69,Male,61000,565,3,150000,14,No,Tamil Nadu,90.30018856,Salaried,71,Software Engineer
+45,Female,124000,476,10,80341,86,Yes,Karnataka,78.96060727,Salaried,91,Civil Servant
+33,Female,71000,560,5,39851,101,No,Karnataka,95,Unemployed,57,NA
+67,Male,191000,481,2,150000,111,No,Delhi,56.10900236,Salaried,69,Software Engineer
+33,Other,18000,374,3,51522,75,No,Uttar Pradesh,95,Salaried,59,Software Engineer
